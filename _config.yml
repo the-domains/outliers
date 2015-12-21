@@ -1,0 +1,28 @@
+name: Outliers
+favicon: null
+layout_spectrum: 0.73947869008407
+typography_spectrum: 0.3798454664647579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9683422800153494
+  lightness: 0.5464046674314886
+  saturation: 0.6733280969783664
+  rhythmicContrast: 0.8124849947635084
+purpose: []
